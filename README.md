@@ -21,8 +21,11 @@ Este repositório é onde estou:
 
 - Git e GitHub
 - Python
-- Java (inicial)
+- Java
 - VS Code
+- MySql
+- eclipse
+- Xampp
 
 ## 📫 Contato
 
