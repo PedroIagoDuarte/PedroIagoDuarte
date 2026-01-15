@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)!
 
-Sou um estudante de **Engenharia de Software**, atualmente no **primeiro período** da faculdade. Estou começando minha jornada no mundo da programação e estou animado para aprender cada vez mais!
+Sou um estudante de **Engenharia de Software**, atualmente no **terceiro período** da faculdade. Estou começando minha jornada no mundo da programação e estou animado para aprender cada vez mais!
 
 ## Sobre mim
 
@@ -26,6 +26,9 @@ Este repositório é onde estou:
 - MySql
 - eclipse
 - Xampp
+- html
+- CSS
+- Luau
 
 ## 📫 Contato
 
