@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Iago Duarte, tenho 19 anos e sou natural de Curitiba. Atualmente, estou cursando Engenharia de Software na UNICURITIBA. Sou apaixonado por tecnologia e aprender coisas novas, esse é meu Linkedin "[Pedro Duarte](https://www.linkedin.com/in/pedro-iago-duarte-594721346/)", se conecte comigo!
+Me chamo Pedro Iago Duarte, tenho 19 anos e sou natural de Curitiba. Atualmente, estou cursando Engenharia de Software na PUC-PR. Sou apaixonado por tecnologia e aprender coisas novas, esse é meu Linkedin "[Pedro Duarte](https://www.linkedin.com/in/pedro-iago-duarte-594721346/)", se conecte comigo!
 
 <p align="left">
    
